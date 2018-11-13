@@ -2,7 +2,7 @@
 // See the 'F# Tutorial' project for more help.
 
 #load "Library1.fs"
-open Wilson.Packrat.Test
+open Wilson.Packrat.Tests
 
 // Define your library scripting code here
 

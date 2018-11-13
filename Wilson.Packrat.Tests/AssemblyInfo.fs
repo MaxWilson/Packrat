@@ -1,4 +1,4 @@
-﻿namespace Wilson.Packrat.Test.AssemblyInfo
+﻿namespace Wilson.Packrat.Tests.AssemblyInfo
 
 open System.Reflection
 open System.Runtime.CompilerServices
@@ -7,11 +7,11 @@ open System.Runtime.InteropServices
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[<assembly: AssemblyTitle("Wilson.Packrat.Test")>]
+[<assembly: AssemblyTitle("Wilson.Packrat.Tests")>]
 [<assembly: AssemblyDescription("")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("")>]
-[<assembly: AssemblyProduct("Wilson.Packrat.Test")>]
+[<assembly: AssemblyProduct("Wilson.Packrat.Tests")>]
 [<assembly: AssemblyCopyright("Copyright ©  2018")>]
 [<assembly: AssemblyTrademark("")>]
 [<assembly: AssemblyCulture("")>]
@@ -22,7 +22,7 @@ open System.Runtime.InteropServices
 [<assembly: ComVisible(false)>]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[<assembly: Guid("71ea554b-b1e5-4d93-9afa-efff29ad7e91")>]
+[<assembly: Guid("28e6874a-4af2-4e5f-ba07-e7a51cbcba80")>]
 
 // Version information for an assembly consists of the following four values:
 //

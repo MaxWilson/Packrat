@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{2C921B
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Wilson.Packrat", "src\Wilson.Packrat.fsproj", "{417070EE-1669-43F5-8F2D-824398E24A8A}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Wilson.Packrat.Tests", "Wilson.Packrat.Tests\Wilson.Packrat.Tests.fsproj", "{28E6874A-4AF2-4E5F-BA07-E7A51CBCBA80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{417070EE-1669-43F5-8F2D-824398E24A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{417070EE-1669-43F5-8F2D-824398E24A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{417070EE-1669-43F5-8F2D-824398E24A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E6874A-4AF2-4E5F-BA07-E7A51CBCBA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E6874A-4AF2-4E5F-BA07-E7A51CBCBA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E6874A-4AF2-4E5F-BA07-E7A51CBCBA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E6874A-4AF2-4E5F-BA07-E7A51CBCBA80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
