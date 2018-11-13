@@ -1,0 +1,19 @@
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    FSharp.Core (4.5.2) - restriction: >= net461
+    System.ValueTuple (4.4) - restriction: >= net461
+    xunit (2.4.1) - restriction: >= net461
+      xunit.analyzers (>= 0.10)
+      xunit.assert (2.4.1)
+      xunit.core (2.4.1)
+    xunit.abstractions (2.0.3) - restriction: >= net461
+    xunit.analyzers (0.10) - restriction: >= net461
+    xunit.assert (2.4.1) - restriction: >= net461
+    xunit.core (2.4.1) - restriction: >= net461
+      xunit.extensibility.core (2.4.1)
+      xunit.extensibility.execution (2.4.1)
+    xunit.extensibility.core (2.4.1) - restriction: >= net461
+      xunit.abstractions (>= 2.0.3) - restriction: >= netstandard1.1
+    xunit.extensibility.execution (2.4.1) - restriction: >= net461
+      xunit.extensibility.core (2.4.1) - restriction: >= netstandard1.1
+    xunit.runner.visualstudio (2.4.1) - restriction: >= net461

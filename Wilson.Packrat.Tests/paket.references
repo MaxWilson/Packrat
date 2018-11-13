@@ -1,0 +1,10 @@
+FSharp.Core
+System.ValueTuple
+xunit
+xunit.abstractions
+xunit.analyzers
+xunit.assert
+xunit.core
+xunit.extensibility.core
+xunit.extensibility.execution
+xunit.runner.visualstudio
